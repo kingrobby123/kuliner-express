@@ -1,0 +1,59 @@
+body {
+    font-family: poppins;
+    background-color:#292933;
+}
+
+.title {
+    margin-left: 40px;
+    color: #fff;
+}
+
+.kontol {
+    color: #FFB600;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    gap: 30rem;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.link {
+    display: flex;
+    gap: 2rem;
+}
+
+.daftar {
+    background-color: #FFB600;
+    border-radius: 1rem;
+}
+.daftar h1 {
+    padding: 0 1rem;
+}
+h1 {
+    font-size: 120%;
+}
+.pembungkus-hero {
+    margin: 0 auto;
+    width: 90%;
+}
+
+.pembungkus-text {
+    color: #F8B204;
+    font-size: 2rem;
+}
+
+.tengah {
+    color: #fff;
+    font-size: 3rem;
+}
+
+.destc {
+    color: #fff;
+    font-size: 1.5rem;
+}
